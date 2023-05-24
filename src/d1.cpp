@@ -69,8 +69,8 @@ void part_b(const std::string &input)
 
 int main() 
 {
-    part_a("inputs/d1a.txt");
-    part_b("inputs/d1a.txt");
+    part_a("inputs/d1.txt");
+    part_b("inputs/d1.txt");
     
     std::cout << "Hello world!\n";
     return 0;
